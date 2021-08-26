@@ -25,6 +25,4 @@ Currently working with NodeJS and Typescript on backend applications.
 
 - Telegram : @martialderrien
 
-# File a complaint about my jokes :
-
-[file a complaint](https://www.youtube.com/watch?v=fC7oUOUEEi4)
+[file a complaint about my jokes](https://www.youtube.com/watch?v=fC7oUOUEEi4)
