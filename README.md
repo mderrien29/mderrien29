@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi ! Welcome to my github profile 👋
 
-<!--
-**mderrien29/mderrien29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+French software engineer. 
 
-Here are some ideas to get you started:
+Currently working with NodeJS and Typescript on backend applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👴 Vim user
+### 👨‍⚖️ Clean code advocate
+### 🧟‍♂️ 3am commits
+### 👨‍🍳 Bad humor
+### 🥷 Ninja fixes
+### 🧙‍♂️ legacy code wizard
+### 👨‍🚒 firefighter emoji
+### 👨‍🏭 Fixin' prod
+### 💩 PHP hater
+
+# Check out my latest work : 
+
+- Clean code presentation : https://mderrien29.github.io/presentation-clean-code/
+- quick and dirty christmas project : https://github.com/mderrien29/rovaniemi
+- dotfiles : https://github.com/mderrien29/dotfiles
+- Recursion : https://github.com/mderrien29
+
+# How to reach me : 
+
+- Telegram : @martialderrien
+
+# File a complaint about my jokes :
+
+[file a complaint](https://www.youtube.com/watch?v=fC7oUOUEEi4)
