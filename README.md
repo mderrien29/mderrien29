@@ -1,7 +1,6 @@
 # Hi ! Welcome to my github profile 👋
 
-French software engineer. 
-
+>French software engineer. 
 Currently working with NodeJS and Typescript on backend applications.
 
 ### 👴 Vim user
