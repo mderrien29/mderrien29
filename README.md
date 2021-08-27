@@ -1,4 +1,4 @@
-# Hi ! Welcome to my github profile 👋
+# Welcome 👋
 
 >French software engineer. 
 Currently working with NodeJS and Typescript on backend applications.
