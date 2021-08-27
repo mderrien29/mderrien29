@@ -15,9 +15,9 @@ Currently working with NodeJS and Typescript on backend applications.
 
 # Check out my latest work : 
 
-- Clean code presentation : https://mderrien29.github.io/presentation-clean-code/
-- quick and dirty christmas project : https://github.com/mderrien29/rovaniemi
-- dotfiles : https://github.com/mderrien29/dotfiles
+- Clean code presentation : https://mderrien29.github.io/presentation-clean-code/ (Presentation for work, part 1.)
+- quick and dirty christmas project : https://github.com/mderrien29/rovaniemi (a small back+front application, asap)
+- dotfiles : https://github.com/mderrien29/dotfiles (Vim config, alacritty, etc)
 - Recursion : https://github.com/mderrien29
 
 # How to reach me : 
