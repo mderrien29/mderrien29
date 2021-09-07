@@ -1,7 +1,8 @@
 # Welcome 👋
 
->French software engineer. [Soothing music while you read my profile](https://www.youtube.com/watch?v=dsmsAeHWhO4).
-Currently working with NodeJS and Typescript on backend applications. 
+> [Soothing music while you read my profile](https://www.youtube.com/watch?v=dsmsAeHWhO4).
+
+French software engineer. Currently working with NodeJS and Typescript on backend applications. 
 
 ### 👴 Vim user
 ### 👨‍⚖️ Clean code advocate
@@ -24,4 +25,4 @@ Currently working with NodeJS and Typescript on backend applications.
 
 - Telegram : @martialderrien
 
-My joke did not go through QA ? [file a complaint](https://www.youtube.com/watch?v=fC7oUOUEEi4)
+My joke did not go through QA ? [file a complaint](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
