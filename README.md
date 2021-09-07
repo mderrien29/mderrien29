@@ -10,7 +10,7 @@ French software engineer. Currently working with NodeJS and Typescript on backen
 ### 👨‍🍳 Bad humor
 ### 🧙‍♂️ legacy code wizard
 ### 👨‍🚒 firefighter emoji
-### 👨‍🏭 breakin' prod
+### 👨‍🏭 breakin' prod on Friday
 ### 💩 PHP hater
 
 # Check out my latest work : 
