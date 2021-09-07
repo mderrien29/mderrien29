@@ -7,10 +7,9 @@ Currently working with NodeJS and Typescript on backend applications.
 ### 👨‍⚖️ Clean code advocate
 ### 🧟‍♂️ 3am commits
 ### 👨‍🍳 Bad humor
-### 🥷 Ninja fixes
 ### 🧙‍♂️ legacy code wizard
 ### 👨‍🚒 firefighter emoji
-### 👨‍🏭 Fixin' prod
+### 👨‍🏭 breakin' prod
 ### 💩 PHP hater
 
 # Check out my latest work : 
