@@ -24,5 +24,5 @@ French software engineer. Currently working with NodeJS and Typescript on backen
 # How to reach me : 
 
 - Telegram : @martialderrien
-- 
+
 My joke did not go through QA ? [file a complaint](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
