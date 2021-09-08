@@ -13,7 +13,7 @@ French software engineer. Currently working with NodeJS and Typescript on backen
 ### 👨‍🏭 friday prod releases
 ### 💩 PHP
 
-(github is yet to enable the ninja emoji on their profile readme. my disapointment is immense, and my day is ruined)
+(github is yet to enable the ninja emoji on their profile readme. My disappointment is immeasurable And my day is ruined)
 
 # Check out my latest work : 
 
