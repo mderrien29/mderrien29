@@ -17,7 +17,7 @@ French software engineer. Currently working with NodeJS and Typescript on backen
 
 # Check out my latest work : 
 
-- Clean code presentation : https://mderrien29.github.io/presentation-clean-code/ (Presentation for work, part 1., ~30mn)
+- Clean code presentation : https://mderrien29.github.io/presentation-clean-code/ (Presentation for work, part 1., ~30mn. use arrow keys!)
 - quick and dirty christmas project : https://github.com/mderrien29/rovaniemi (a small back+front application, made in a few hours)
 - dotfiles : https://github.com/mderrien29/dotfiles (Vim config, alacritty, etc)
 - kafkajs producer example https://github.com/mderrien29/kafkajs-producer
