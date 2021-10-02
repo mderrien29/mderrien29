@@ -22,6 +22,7 @@ French software engineer. Currently working with NodeJS and Typescript on backen
 - dotfiles : https://github.com/mderrien29/dotfiles (Vim config, alacritty, etc)
 - kafkajs producer example https://github.com/mderrien29/kafkajs-producer
 - 3 hours coding challenge https://github.com/mderrien29/contentsquare_lawnmower
+- Merge request for a coding challenge : https://github.com/mderrien29/kanedama/pull/1
 - Recursion : https://github.com/mderrien29
 
 # How to reach me : 
