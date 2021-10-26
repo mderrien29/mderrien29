@@ -29,4 +29,4 @@ French software engineer. Currently working with NodeJS and Typescript on backen
 
 - Telegram : @martialderrien
 
-My joke did not go through QA ? [file a complaint](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+My joke did not go through QA ? [Open an issue](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
