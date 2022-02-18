@@ -4,17 +4,6 @@
 
 French software engineer. Currently working with NodeJS and Typescript on backend applications. 
 
-### 👴 Vim user
-### 👨‍⚖️ Clean code advocate
-### 🧟‍♂️ 3am commits
-### 👨‍🍳 Bad humor
-### 🧙‍♂️ legacy code wizard
-### 👨‍🚒 firefighter emoji
-### 👨‍🏭 friday prod releases
-### 💩 PHP
-
-(github is yet to enable the ninja emoji on their profile readme. My disappointment is immeasurable and my day is ruined)
-
 # Check out my latest work : 
 
 - Clean code presentation : https://mderrien29.github.io/presentation-clean-code/ (Presentation for work, part 1., ~30mn. use arrow keys!)
